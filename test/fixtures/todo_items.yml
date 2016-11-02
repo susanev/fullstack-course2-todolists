@@ -3,11 +3,11 @@
 one:
   due_date: 2016-11-02
   title: MyString
-  description: MyString
+  description: MyText
   completed: false
 
 two:
   due_date: 2016-11-02
   title: MyString
-  description: MyString
+  description: MyText
   completed: false
